@@ -1,0 +1,1 @@
+nltk.stem.porter==3.4
